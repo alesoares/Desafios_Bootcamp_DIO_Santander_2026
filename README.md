@@ -1,9 +1,9 @@
 # 🏦 Trilha Java & Spring Boot - Santander Bootcamps 2026
 
-[![Java](https://shields.io)](https://openjdk.org)
-[![Spring Boot](https://shields.io)](https://spring.io)
-[![Docker](https://shields.io)](https://docker.com)
-[![Swagger](https://shields.io)](https://swagger.io)
+<a href="https://openjdk.org"><img src="https://shields.io" alt="Java"></a>
+<a href="https://spring.io"><img src="https://shields.io" alt="Spring Boot"></a>
+<a href="https://docker.com"><img src="https://shields.io" alt="Docker"></a>
+<a href="https://swagger.io"><img src="https://shields.io" alt="Swagger"></a>
 
 Este repositório centraliza os projetos de arquitetura de software e engenharia de dados desenvolvidos durante o Bootcamp Santander 2026, focando em padrões corporativos, segurança e rastreabilidade de transações.
 
