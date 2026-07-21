@@ -1,0 +1,13 @@
+.gradle/
+build/
+bin/
+.settings/
+.project
+.classpath
+/.metadata/
+mysql_dados_bootcamp/
+mysql_dados_ok/
+banco_bootcamp_ok/
+"Nova pasta/"
+DESAFIOS_DE_POO/
+*.txt
