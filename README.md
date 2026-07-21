@@ -2,17 +2,44 @@
 
 <a href="https://openjdk.org">
     <img 
-    align="left" 
-    alt="Java" 
-    title="Java"
-    width="30px" 
-    style="padding-right: 10px; padding-bottom: 30px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
+        align="left" 
+        alt="Java" 
+        title="Java"
+        width="30px" 
+        style="padding-right: 10px; padding-bottom: 30px;" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
     />
 </a>
-<a href="https://spring.io"><img src="https://shields.io" alt="Spring Boot"></a>
-<a href="https://docker.com"><img src="https://shields.io" alt="Docker"></a>
-<a href="https://swagger.io"><img src="https://shields.io" alt="Swagger"></a>
+<a href="https://spring.io">
+    <img 
+        align="left" 
+        alt="Spring" 
+        title="Spring"
+        width="30px" 
+        style="padding-right: 10px; padding-bottom: 30px;" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" 
+    />
+</a>
+<a href="https://docker.com">
+    <img 
+        align="left" 
+        alt="Docker" 
+        title="Docker"
+        width="30px" 
+        style="padding-right: 10px; padding-bottom: 30px;" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" 
+    />
+</a>
+<a href="https://swagger.io">
+    <img 
+        align="left" 
+        alt="API Swagger" 
+        title="API Swagger"
+        width="30px" 
+        style="padding-right: 10px; padding-bottom: 30px;" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" 
+    />
+</a>
 
 Este repositório centraliza os projetos de arquitetura de software e engenharia de dados desenvolvidos durante o Bootcamp Santander 2026, focando em padrões corporativos, segurança e rastreabilidade de transações.
 
