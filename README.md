@@ -1,15 +1,22 @@
 # 🏦 Trilha Java & Spring Boot - Santander Bootcamps 2026
 
-<a href="https://openjdk.org">
-    <img 
-        align="left" 
-        alt="Java" 
-        title="Java"
-        width="30px" 
-        style="padding-right: 10px; padding-bottom: 30px;" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
-    />
-</a>
+
+<div align="left" 
+    <a href="https://openjdk.org">
+        <img 
+            align="left" 
+            alt="Java" 
+            title="Java"
+            width="30px" 
+            style="padding-right: 10px; padding-bottom: 30px;" 
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
+        />
+        <b>Java 21</b>
+    </a>
+
+
+
+</div>
 <a href="https://spring.io">
     <img 
         align="left" 
@@ -40,7 +47,9 @@
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" 
     />
 </a>
-<br>
+
+<br clear="left"/>
+
 Este repositório centraliza os projetos de arquitetura de software e engenharia de dados desenvolvidos durante o Bootcamp Santander 2026, focando em padrões corporativos, segurança e rastreabilidade de transações.
 
 ---
