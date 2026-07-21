@@ -1,6 +1,15 @@
 # 🏦 Trilha Java & Spring Boot - Santander Bootcamps 2026
 
-<a href="https://openjdk.org"><img src="https://shields.io" alt="Java"></a>
+<a href="https://openjdk.org">
+    <img 
+    align="left" 
+    alt="Java" 
+    title="Java"
+    width="30px" 
+    style="padding-right: 10px; padding-bottom: 30px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
+    />
+</a>
 <a href="https://spring.io"><img src="https://shields.io" alt="Spring Boot"></a>
 <a href="https://docker.com"><img src="https://shields.io" alt="Docker"></a>
 <a href="https://swagger.io"><img src="https://shields.io" alt="Swagger"></a>
