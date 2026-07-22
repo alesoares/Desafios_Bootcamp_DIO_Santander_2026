@@ -1,11 +1,11 @@
 # 🏦 Trilha Java & Spring Boot - Santander Bootcamps 2026
 
-<table align="left" style="border: none; border-collapse: collapse; margin-bottom: 20px;">
+<table width="100%" align="left" style="border: none; border-collapse: collapse; margin-bottom: 20px;">
   <tr style="border: none;">
     <td width="47%" align="center" style="border: none; padding: 0 15px 0 0;">
-      <a href="https://openjdk.org" style="text-decoration: none; color: inherit;">
-        <img width="40px" src="https://jsdelivr.net" alt="Java" /><br>
-        <sub><b>Java 21</b></sub>
+        <a href="https://openjdk.org" style="margin: 0 15px; display: inline-block; text-align: center; text-decoration: none; color: inherit;">
+            <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" title="Java" /><br>
+            <sub><b>Java 21</b></sub>
       </a>
     </td>
     <td align="center" style="border: none; padding: 0 15px;">
@@ -31,14 +31,13 @@
 
 <br clear="all">
 
-<br>
-
 Este repositório centraliza os projetos de arquitetura de software e engenharia de dados desenvolvidos durante o Bootcamp Santander 2026, focando em padrões corporativos, segurança e rastreabilidade de transações.
 
-
-
-
 <p align="center">
+  <a href="https://openjdk.org" style="margin: 0 15px; display: inline-block; text-align: center; text-decoration: none; color: inherit;">
+    <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" title="Java" /><br>
+    <b>Java 21</b>
+  </a>
   <a href="https://openjdk.org" style="margin: 0 15px; display: inline-block; text-align: center; text-decoration: none; color: inherit;">
     <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" title="Java" /><br>
     <b>Java 21</b>
