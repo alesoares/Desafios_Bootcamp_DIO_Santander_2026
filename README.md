@@ -5,7 +5,7 @@
     <td width="47%" align="center" style="border: none; padding: 0 15px 0 0;">
         <a href="https://openjdk.org" style="margin: 0 15px; display: inline-block; text-align: center; text-decoration: none; color: inherit;">
             <img width="100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" title="Java" /><br>
-            <sub><b>Java 21</b></sub>
+            <b>Java 21</b>
       </a>
     </td>
     <td align="center" style="border: none; padding: 0 15px;">
