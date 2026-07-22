@@ -1,23 +1,22 @@
 # 🏦 Trilha Java & Spring Boot - Santander Bootcamps 2026
 
 
-<div align="left" 
-    <a href="https://openjdk.org">
-        <img 
-            align="left" 
-            alt="Java" 
-            title="Java"
-            width="30px" 
-            style="padding-right: 10px; padding-bottom: 30px;" 
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
-        />
-        <b>Java 21</b>
-    </a>
-
-
-
+<div align="center">
+    <div>
+        <a href="https://openjdk.org">
+            <img 
+                align="left" 
+                alt="Java" 
+                title="Java"
+                width="30px" 
+                style="padding-right: 10px; padding-bottom: 30px;" 
+                src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
+            />
+            <b>Java 21</b>
+        </a>
+    </div>
 </div>
-<a href="https://spring.io">
+<!-- <a href="https://spring.io">
     <img 
         align="left" 
         alt="Spring" 
@@ -46,7 +45,7 @@
         style="padding-right: 10px; padding-bottom: 30px;" 
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" 
     />
-</a>
+</a> -->
 
 <br clear="left"/>
 
