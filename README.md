@@ -22,7 +22,7 @@
         </p>
     </td>
     <td width="100px"></td> <!-- Respiro milimétrico invisível entre as duas caixas -->
-    <td width="300px" align="left" valign="middle">
+    <td width="20%" align="left" valign="middle">
         <p align="center" valign="middle">
             <a href="https://docker.com" style="margin: 0 15px; display: inline-block; text-align: center; text-decoration: none; color: inherit;">
                 <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="Docker" title="Docker" /><br>
