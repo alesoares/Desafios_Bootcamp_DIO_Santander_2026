@@ -13,7 +13,7 @@
         </p>
     </td>
     <td width="1%"></td> <!-- Respiro milimétrico invisível entre as duas caixas -->
-    <td width="30%" align="right" valign="middle">
+    <td width="25%" align="right" valign="middle">
         <p align="center" valign="middle" style="padding-top: 25px;">
             <a href="https://spring.io" style="margin: 0 15px; display: inline-block; text-align: center; text-decoration: none; color: inherit;">
                 <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" alt="Spring" title="Spring" /><br>
