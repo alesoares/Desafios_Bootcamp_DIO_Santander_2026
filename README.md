@@ -1,5 +1,22 @@
 # 🏦 Trilha Java & Spring Boot - Santander Bootcamps 2026
 
+
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td width="47%" align="left" valign="middle">
+        <p align="center" valign="middle">
+            <img src="https://github-readme-stats-salesp07.vercel.app/api?username=alesoares&count_private=true&show_icons=true&theme=highcontrast&rank_icon=github&border_radius=10" width="100%" alt="GitHub Stats" title="GitHub Stats" />
+        </p>
+    </td>
+    <td width="2%"></td> <!-- Respiro milimétrico invisível entre as duas caixas -->
+    <td width="49%" align="right" valign="middle">
+        <p align="center" valign="middle" style="padding-top: 25px;">
+            <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=alesoares&count_private=true&theme=highcontrast&border_radius=10" width="100%" alt="GitHub Streak Stats" title="GitHub Streak Stats" />
+        </p>
+    </td>
+  </tr>
+</table
+
 <div style="border: 1px solid red; ">
     <a href="https://openjdk.org" style="margin: 0 15px; display: inline-block; text-align: center; text-decoration: none; color: inherit;">
         <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" title="Java" /><br>
