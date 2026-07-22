@@ -1,8 +1,35 @@
 # 🏦 Trilha Java & Spring Boot - Santander Bootcamps 2026
 
-| <img width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" title="Java" /> | <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" alt="Spring" title="Spring" /> | <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="Docker" title="Docker" /> | <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" alt="API Swagger" title="API Swagger" />|
-| :---: | :---: | :---: | :---: |
-| **Java 21** | **Spring Boot** | **Docker** | **Swagger UI** |
+<table align="left" style="border: none; border-collapse: collapse; margin-bottom: 20px;">
+  <tr style="border: none;">
+    <td align="center" style="border: none; padding: 0 15px 0 0;">
+      <a href="https://openjdk.org" style="text-decoration: none; color: inherit;">
+        <img width="40px" src="https://jsdelivr.net" alt="Java" /><br>
+        <sub><b>Java 21</b></sub>
+      </a>
+    </td>
+    <td align="center" style="border: none; padding: 0 15px;">
+      <a href="https://spring.io" style="text-decoration: none; color: inherit;">
+        <img width="40px" src="https://jsdelivr.net" alt="Spring" /><br>
+        <sub><b>Spring Boot</b></sub>
+      </a>
+    </td>
+    <td align="center" style="border: none; padding: 0 15px;">
+      <a href="https://docker.com" style="text-decoration: none; color: inherit;">
+        <img width="40px" src="https://jsdelivr.net" alt="Docker" /><br>
+        <sub><b>Docker</b></sub>
+      </a>
+    </td>
+    <td align="center" style="border: none; padding: 0 15px;">
+      <a href="https://swagger.io" style="text-decoration: none; color: inherit;">
+        <img width="40px" src="https://jsdelivr.net" alt="API Swagger" /><br>
+        <sub><b>Swagger UI</b></sub>
+      </a>
+    </td>
+  </tr>
+</table>
+
+<br clear="all">
 
 <br>
 
