@@ -1,7 +1,7 @@
 # 🏦 Trilha Java & Spring Boot - Santander Bootcamps 2026
 
 
-<div style="display: flex; align-items: center; flex-direction: row;
+<div style="display: flex; flex-direction: row; align-items: center;
     justify-content: space-between; border: 1px solid red; border-radius: 6px; " >
     <div>
         <a href="https://openjdk.org" style="margin: 0 15px; display: inline-block; text-align: center; text-decoration: none; color: inherit;">
@@ -10,9 +10,9 @@
         </a>
     </div>
     <div>
-        <a href="https://openjdk.org" style="margin: 0 15px; display: inline-block; text-align: center; text-decoration: none; color: inherit;">
-            <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" title="Java" /><br>
-            <b>Java 21</b>
+        <a href="https://spring.io" style="margin: 0 15px; display: inline-block; text-align: center; text-decoration: none; color: inherit;">
+            <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" alt="Spring" title="Spring" /><br>
+            <b>Spring Boot</b>
         </a>
     </div>
 </div>
