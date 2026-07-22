@@ -3,8 +3,8 @@
 
 <table border="0" cellpadding="0" cellspacing="0">
   <tr>
-    <td width="1%"></td> <!-- Respiro milimétrico invisível entre as duas caixas -->
-    <td width="200px" align="left" valign="middle">
+    <td width="100px"></td> <!-- Respiro milimétrico invisível entre as duas caixas -->
+    <td width="300px" align="left" valign="middle">
         <p align="center" valign="middle">
            <a href="https://openjdk.org" style="margin: 0 15px; display: inline-block; text-align: center; text-decoration: none; color: inherit;">
                 <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" title="Java" /><br>
@@ -12,7 +12,7 @@
             </a>
         </p>
     </td>
-    <td width="1%"></td> <!-- Respiro milimétrico invisível entre as duas caixas -->
+    <td width="100px"></td> <!-- Respiro milimétrico invisível entre as duas caixas -->
     <td width="27%" align="right" valign="middle">
         <p align="center" valign="middle" style="padding-top: 25px;">
             <a href="https://spring.io" style="margin: 0 15px; display: inline-block; text-align: center; text-decoration: none; color: inherit;">
@@ -22,7 +22,7 @@
         </p>
     </td>
     <td width="1%"></td> <!-- Respiro milimétrico invisível entre as duas caixas -->
-    <td width="200px" align="left" valign="middle">
+    <td width="300px" align="left" valign="middle">
         <p align="center" valign="middle">
             <a href="https://docker.com" style="margin: 0 15px; display: inline-block; text-align: center; text-decoration: none; color: inherit;">
                 <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="Docker" title="Docker" /><br>
