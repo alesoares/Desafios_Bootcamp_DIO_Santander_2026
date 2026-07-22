@@ -6,25 +6,25 @@
         <a href="https://openjdk.org" style="margin: 0 15px; display: inline-block; text-align: center; text-decoration: none; color: inherit;">
             <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" title="Java" /><br>
             <b>Java 21</b>
-      </a>
+        </a>
     </td>
     <td width="47%" align="center" style="border: none; padding: 0 15px 0 0;">
-        <a href="https://openjdk.org" style="margin: 0 15px; display: inline-block; text-align: center; text-decoration: none; color: inherit;">
-            <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" title="Java" /><br>
-            <b>Java 21</b>
-      </a>
+        <a href="https://spring.io" style="margin: 0 15px; display: inline-block; text-align: center; text-decoration: none; color: inherit;">
+            <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" alt="Spring" title="Spring" /><br>
+            <b>Spring Boot</b>
+        </a>
     </td>
     <td width="47%" align="center" style="border: none; padding: 0 15px 0 0;">
-        <a href="https://openjdk.org" style="margin: 0 15px; display: inline-block; text-align: center; text-decoration: none; color: inherit;">
-            <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" title="Java" /><br>
-            <b>Java 21</b>
-      </a>
+        <a href="https://docker.com" style="margin: 0 15px; display: inline-block; text-align: center; text-decoration: none; color: inherit;">
+            <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="Docker" title="Docker" /><br>
+            <b>Docker</b>
+        </a>
     </td>
     <td width="47%" align="center" style="border: none; padding: 0 15px 0 0;">
-        <a href="https://openjdk.org" style="margin: 0 15px; display: inline-block; text-align: center; text-decoration: none; color: inherit;">
-            <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" title="Java" /><br>
-            <b>Java 21</b>
-      </a>
+        <a href="https://swagger.io" style="margin: 0 15px; display: inline-block; text-align: center; text-decoration: none; color: inherit;">
+            <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" alt="API Swagger" title="API Swagger" /><br>
+            <b>Swagger UI</b>
+        </a>
     </td>
   </tr>
 </table>
