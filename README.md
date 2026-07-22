@@ -3,6 +3,7 @@
 
 <table width="100%" border="0" cellpadding="0" cellspacing="0">
   <tr>
+    <td width="2%"></td> <!-- Respiro milimétrico invisível entre as duas caixas -->
     <td width="30%" align="left" valign="middle">
         <p align="center" valign="middle">
            <a href="https://openjdk.org" style="margin: 0 15px; display: inline-block; text-align: center; text-decoration: none; color: inherit;">
@@ -12,7 +13,7 @@
         </p>
     </td>
     <td width="2%"></td> <!-- Respiro milimétrico invisível entre as duas caixas -->
-    <td width="20%" align="right" valign="middle">
+    <td width="60%" align="right" valign="middle">
         <p align="center" valign="middle" style="padding-top: 25px;">
             <a href="https://spring.io" style="margin: 0 15px; display: inline-block; text-align: center; text-decoration: none; color: inherit;">
                 <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" alt="Spring" title="Spring" /><br>
@@ -30,7 +31,7 @@
         </p>
     </td>
     <td width="2%"></td> <!-- Respiro milimétrico invisível entre as duas caixas -->
-    <td width="30%" align="right" valign="middle">
+    <td width="60%" align="right" valign="middle">
         <p align="center" valign="middle" style="padding-top: 25px;">
             <a href="https://swagger.io" style="margin: 0 15px; display: inline-block; text-align: center; text-decoration: none; color: inherit;">
                 <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" alt="API Swagger" title="API Swagger" /><br>
@@ -38,6 +39,7 @@
             </a>
         </p>
     </td>
+    <td width="2%"></td> <!-- Respiro milimétrico invisível entre as duas caixas -->
   </tr>
 </table>
 
