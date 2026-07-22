@@ -5,7 +5,10 @@
   <tr>
     <td width="47%" align="left" valign="middle">
         <p align="center" valign="middle">
-            <img src="https://github-readme-stats-salesp07.vercel.app/api?username=alesoares&count_private=true&show_icons=true&theme=highcontrast&rank_icon=github&border_radius=10" width="100%" alt="GitHub Stats" title="GitHub Stats" />
+           <a href="https://openjdk.org" style="margin: 0 15px; display: inline-block; text-align: center; text-decoration: none; color: inherit;">
+                <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" title="Java" /><br>
+                <b>Java 21</b>
+            </a>
         </p>
     </td>
     <td width="2%"></td> <!-- Respiro milimétrico invisível entre as duas caixas -->
