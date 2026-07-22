@@ -1,6 +1,5 @@
 # 🏦 Trilha Java & Spring Boot - Santander Bootcamps 2026
 
-
 <table border="0" cellpadding="0" cellspacing="0">
   <tr>
     <td width="100px"></td> <!-- Respiro milimétrico invisível entre as duas caixas -->
@@ -42,37 +41,6 @@
     <td width="100px"></td> <!-- Respiro milimétrico invisível entre as duas caixas -->
   </tr>
 </table>
-
-<a href="https://spring.io">
-    <img 
-        align="left" 
-        alt="Spring" 
-        title="Spring"
-        width="30px" 
-        style="padding-right: 10px; padding-bottom: 30px;" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" 
-    />
-</a>
-<a href="https://docker.com">
-    <img 
-        align="left" 
-        alt="Docker" 
-        title="Docker"
-        width="30px" 
-        style="padding-right: 10px; padding-bottom: 30px;" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" 
-    />
-</a>
-<a href="https://swagger.io">
-    <img 
-        align="left" 
-        alt="API Swagger" 
-        title="API Swagger"
-        width="30px" 
-        style="padding-right: 10px; padding-bottom: 30px;" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" 
-    />
-</a>
 
 <br clear="left"/>
 
