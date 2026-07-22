@@ -21,7 +21,7 @@
             </a>
         </p>
     </td>
-    <td width="1%"></td> <!-- Respiro milimétrico invisível entre as duas caixas -->
+    <td width="100px"></td> <!-- Respiro milimétrico invisível entre as duas caixas -->
     <td width="300px" align="left" valign="middle">
         <p align="center" valign="middle">
             <a href="https://docker.com" style="margin: 0 15px; display: inline-block; text-align: center; text-decoration: none; color: inherit;">
@@ -30,7 +30,7 @@
             </a>
         </p>
     </td>
-    <td width="1%"></td> <!-- Respiro milimétrico invisível entre as duas caixas -->
+    <td width="100px"></td> <!-- Respiro milimétrico invisível entre as duas caixas -->
     <td width="28%" align="right" valign="middle">
         <p align="center" valign="middle" style="padding-top: 25px;">
             <a href="https://swagger.io" style="margin: 0 15px; display: inline-block; text-align: center; text-decoration: none; color: inherit;">
@@ -39,7 +39,7 @@
             </a>
         </p>
     </td>
-    <td width="1%"></td> <!-- Respiro milimétrico invisível entre as duas caixas -->
+    <td width="100px"></td> <!-- Respiro milimétrico invisível entre as duas caixas -->
   </tr>
 </table>
 
