@@ -14,6 +14,17 @@
             <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=alesoares&count_private=true&theme=highcontrast&border_radius=10" width="100%" alt="GitHub Streak Stats" title="GitHub Streak Stats" />
         </p>
     </td>
+    <td width="47%" align="left" valign="middle">
+        <p align="center" valign="middle">
+            <img src="https://github-readme-stats-salesp07.vercel.app/api?username=alesoares&count_private=true&show_icons=true&theme=highcontrast&rank_icon=github&border_radius=10" width="100%" alt="GitHub Stats" title="GitHub Stats" />
+        </p>
+    </td>
+    <td width="2%"></td> <!-- Respiro milimétrico invisível entre as duas caixas -->
+    <td width="49%" align="right" valign="middle">
+        <p align="center" valign="middle" style="padding-top: 25px;">
+            <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=alesoares&count_private=true&theme=highcontrast&border_radius=10" width="100%" alt="GitHub Streak Stats" title="GitHub Streak Stats" />
+        </p>
+    </td>
   </tr>
 </table
 
