@@ -1,7 +1,7 @@
 # 🏦 Trilha Java & Spring Boot - Santander Bootcamps 2026
 
 
-<div style="display: flex; align-items: center;
+<div style="display: flex; align-items: center; flex-direction: row;
     justify-content: space-between; border: 1px solid red; border-radius: 6px; " >
     <div>
         <a href="https://openjdk.org" style="margin: 0 15px; display: inline-block; text-align: center; text-decoration: none; color: inherit;">
