@@ -1,6 +1,6 @@
 # 🏦 Trilha Java & Spring Boot - Santander Bootcamps 2026
 
-<table width="100%" align="left" style="border: none; border-collapse: collapse; margin-bottom: 20px;">
+<table width="1000px" align="left" style="border: none; border-collapse: collapse; margin-bottom: 20px;">
   <tr style="border: none;">
     <td width="50%"></td> <!-- Respiro milimétrico invisível entre as duas caixas -->
     <td width="150px" align="center" style="border: none; padding: 0 15px 0 0;">
