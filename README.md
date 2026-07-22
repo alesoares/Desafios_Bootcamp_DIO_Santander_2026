@@ -39,9 +39,7 @@
         </p>
     </td>
   </tr>
-</table
-
-iv>
+</table>
 
 <a href="https://spring.io">
     <img 
