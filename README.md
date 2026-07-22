@@ -3,15 +3,8 @@
 
 <div align="center">
     <div>
-        <a href="https://openjdk.org">
-            <img 
-                align="left" 
-                alt="Java" 
-                title="Java"
-                width="30px" 
-                style="padding-right: 10px; padding-bottom: 30px;" 
-                src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
-            />
+        <a href="https://openjdk.org" style="margin: 0 15px; display: inline-block; text-align: center; text-decoration: none; color: inherit;">
+            <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" title="Java" /><br>
             <b>Java 21</b>
         </a>
     </div>
