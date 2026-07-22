@@ -1,93 +1,17 @@
 # 🏦 Trilha Java & Spring Boot - Santander Bootcamps 2026
 
-<table width="100vw" align="left" style="border: none; border-collapse: collapse; margin-bottom: 20px;">
-  <tr style="border: none;">
-    <td width="50%"></td> <!-- Respiro milimétrico invisível entre as duas caixas -->
-    <td width="150vw" align="center" style="border: none; padding: 0 15px 0 0;">
-        <a href="https://openjdk.org" style="margin: 0 15px; display: inline-block; text-align: center; text-decoration: none; color: inherit;">
-            <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" title="Java" /><br>
-            <b>Java 21</b>
-        </a>
-    </td>
-    <td width="50%"></td> <!-- Respiro milimétrico invisível entre as duas caixas -->
-    <td width="50%" align="center" style="border: none; padding: 0 15px 0 0;">
-        <a href="https://spring.io" style="margin: 0 15px; display: inline-block; text-align: center; text-decoration: none; color: inherit;">
-            <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" alt="Spring" title="Spring" /><br>
-            <b>Spring Boot</b>
-        </a>
-    </td>
-    <td width="50%"></td> <!-- Respiro milimétrico invisível entre as duas caixas -->
-    <td width="50px" align="center" style="border: none; padding: 0 15px 0 0;">
-        <a href="https://docker.com" style="margin: 0 15px; display: inline-block; text-align: center; text-decoration: none; color: inherit;">
-            <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="Docker" title="Docker" /><br>
-            <b>Docker</b>
-        </a>
-    </td>
-    <td width="50%"></td> <!-- Respiro milimétrico invisível entre as duas caixas -->
-    <td width="50%" align="center" style="border: none; padding: 0 15px 0 0;">
-        <a href="https://swagger.io" style="margin: 0 15px; display: inline-block; text-align: center; text-decoration: none; color: inherit;">
-            <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" alt="API Swagger" title="API Swagger" /><br>
-            <b>Swagger UI</b>
-        </a>
-    </td>
-    <td width="50%"></td> <!-- Respiro milimétrico invisível entre as duas caixas -->
-  </tr>
-</table>
 
-<br clear="all">
-
-Este repositório centraliza os projetos de arquitetura de software e engenharia de dados desenvolvidos durante o Bootcamp Santander 2026, focando em padrões corporativos, segurança e rastreabilidade de transações.
-
-<p align="center">
-  <a href="https://openjdk.org" style="margin: 0 15px; display: inline-block; text-align: center; text-decoration: none; color: inherit;">
-    <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" title="Java" /><br>
-    <b>Java 21</b>
-  </a>
-  <a href="https://openjdk.org" style="margin: 0 15px; display: inline-block; text-align: center; text-decoration: none; color: inherit;">
-    <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" title="Java" /><br>
-    <b>Java 21</b>
-  </a>
-  <a href="https://spring.io" style="margin: 0 15px; display: inline-block; text-align: center; text-decoration: none; color: inherit;">
-    <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" alt="Spring" title="Spring" /><br>
-    <b>Spring Boot</b>
-  </a>
-  <a href="https://docker.com" style="margin: 0 15px; display: inline-block; text-align: center; text-decoration: none; color: inherit;">
-    <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="Docker" title="Docker" /><br>
-    <b>Docker</b>
-  </a>
-  <a href="https://swagger.io" style="margin: 0 15px; display: inline-block; text-align: center; text-decoration: none; color: inherit;">
-    <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" alt="API Swagger" title="API Swagger" /><br>
-    <b>Swagger UI</b>
-  </a>
-</p>
-
-<br>
-
-
-
-
-
-
-
-
-
-
-<div style="display: flex; flex-direction: row; align-items: center;
-    justify-content: space-between; border: 1px solid red; border-radius: 6px; " >
-    <div>
-        <a href="https://openjdk.org" style="margin: 0 15px; display: inline-block; text-align: center; text-decoration: none; color: inherit;">
-            <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" title="Java" /><br>
-            <b>Java 21</b>
-        </a>
-    </div>
-    <div>
-        <a href="https://spring.io" style="margin: 0 15px; display: inline-block; text-align: center; text-decoration: none; color: inherit;">
-            <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" alt="Spring" title="Spring" /><br>
-            <b>Spring Boot</b>
-        </a>
-    </div>
-</div>
-<!-- <a href="https://spring.io">
+<a href="https://openjdk.org">
+    <img 
+        align="left" 
+        alt="Java" 
+        title="Java"
+        width="30px" 
+        style="padding-right: 10px; padding-bottom: 30px;" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
+    />
+</a>
+<a href="https://spring.io">
     <img 
         align="left" 
         alt="Spring" 
@@ -116,7 +40,7 @@ Este repositório centraliza os projetos de arquitetura de software e engenharia
         style="padding-right: 10px; padding-bottom: 30px;" 
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" 
     />
-</a> -->
+</a>
 
 <br clear="left"/>
 
