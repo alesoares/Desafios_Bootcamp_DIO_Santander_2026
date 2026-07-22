@@ -1,7 +1,7 @@
 # 🏦 Trilha Java & Spring Boot - Santander Bootcamps 2026
 
 
-<table width="100%" border="0" cellpadding="0" cellspacing="0">
+<table width="100vw" border="0" cellpadding="0" cellspacing="0">
   <tr>
     <td width="1%"></td> <!-- Respiro milimétrico invisível entre as duas caixas -->
     <td width="17%" align="left" valign="middle">
