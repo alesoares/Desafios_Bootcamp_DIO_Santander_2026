@@ -1,25 +1,17 @@
 # 🏦 Trilha Java & Spring Boot - Santander Bootcamps 2026
 
 
-| <img width="40px" src="https://jsdelivr.net" alt="Java"/> | <img width="40px" src="https://jsdelivr.net" alt="Spring"/> | <img width="40px" src="https://jsdelivr.net" alt="Docker"/> | <img width="40px" src="https://jsdelivr.net" alt="Swagger"/> |
+| <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" title="Java" /> 
+| <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" alt="Spring" title="Spring" /> 
+| <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="Docker" title="Docker" />
+| <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" alt="API Swagger" title="API Swagger" />
+|
 | :---: | :---: | :---: | :---: |
 | **Java 21** | **Spring Boot** | **Docker** | **Swagger UI** |
 
 <br>
 
 Este repositório centraliza os projetos de arquitetura de software e engenharia de dados desenvolvidos durante o Bootcamp Santander 2026, focando em padrões corporativos, segurança e rastreabilidade de transações.
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
