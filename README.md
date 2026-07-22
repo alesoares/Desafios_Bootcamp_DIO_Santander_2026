@@ -3,7 +3,7 @@
 
 <table border="0" cellpadding="0" cellspacing="0">
   <tr>
-    <td width="100px"></td> <!-- Respiro milimétrico invisível entre as duas caixas -->
+    <td width="1%"></td> <!-- Respiro milimétrico invisível entre as duas caixas -->
     <td width="20%" align="left" valign="middle">
         <p align="center" valign="middle">
            <a href="https://openjdk.org" style="margin: 0 15px; display: inline-block; text-align: center; text-decoration: none; color: inherit;">
@@ -12,7 +12,7 @@
             </a>
         </p>
     </td>
-    <td width="100px"></td> <!-- Respiro milimétrico invisível entre as duas caixas -->
+    <td width="1%"></td> <!-- Respiro milimétrico invisível entre as duas caixas -->
     <td width="27%" align="right" valign="middle">
         <p align="center" valign="middle" style="padding-top: 25px;">
             <a href="https://spring.io" style="margin: 0 15px; display: inline-block; text-align: center; text-decoration: none; color: inherit;">
@@ -30,7 +30,7 @@
             </a>
         </p>
     </td>
-    <td width="100px"></td> <!-- Respiro milimétrico invisível entre as duas caixas -->
+    <td width="1%"></td> <!-- Respiro milimétrico invisível entre as duas caixas -->
     <td width="28%" align="right" valign="middle">
         <p align="center" valign="middle" style="padding-top: 25px;">
             <a href="https://swagger.io" style="margin: 0 15px; display: inline-block; text-align: center; text-decoration: none; color: inherit;">
@@ -39,7 +39,7 @@
             </a>
         </p>
     </td>
-    <td width="100px"></td> <!-- Respiro milimétrico invisível entre as duas caixas -->
+    <td width="1%"></td> <!-- Respiro milimétrico invisível entre as duas caixas -->
   </tr>
 </table>
 
