@@ -2,6 +2,7 @@
 
 
 | <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" title="Java" /><br> |
+
 | **Java 21**|
 
 <div style="border: 1px solid red; ">
