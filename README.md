@@ -12,7 +12,7 @@
         </p>
     </td>
     <td width="2%"></td> <!-- Respiro milimétrico invisível entre as duas caixas -->
-    <td width="49%" align="right" valign="middle">
+    <td width="20%" align="right" valign="middle">
         <p align="center" valign="middle" style="padding-top: 25px;">
             <a href="https://spring.io" style="margin: 0 15px; display: inline-block; text-align: center; text-decoration: none; color: inherit;">
                 <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" alt="Spring" title="Spring" /><br>
@@ -20,7 +20,8 @@
             </a>
         </p>
     </td>
-    <td width="47%" align="left" valign="middle">
+    <td width="2%"></td> <!-- Respiro milimétrico invisível entre as duas caixas -->
+    <td width="30%" align="left" valign="middle">
         <p align="center" valign="middle">
             <a href="https://docker.com" style="margin: 0 15px; display: inline-block; text-align: center; text-decoration: none; color: inherit;">
                 <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="Docker" title="Docker" /><br>
@@ -29,7 +30,7 @@
         </p>
     </td>
     <td width="2%"></td> <!-- Respiro milimétrico invisível entre as duas caixas -->
-    <td width="49%" align="right" valign="middle">
+    <td width="30%" align="right" valign="middle">
         <p align="center" valign="middle" style="padding-top: 25px;">
             <a href="https://swagger.io" style="margin: 0 15px; display: inline-block; text-align: center; text-decoration: none; color: inherit;">
                 <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" alt="API Swagger" title="API Swagger" /><br>
