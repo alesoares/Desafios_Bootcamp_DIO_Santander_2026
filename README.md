@@ -1,9 +1,9 @@
 # 🏦 Trilha Java & Spring Boot - Santander Bootcamps 2026
 
-<table width="1000px" align="left" style="border: none; border-collapse: collapse; margin-bottom: 20px;">
+<table width="100vw" align="left" style="border: none; border-collapse: collapse; margin-bottom: 20px;">
   <tr style="border: none;">
     <td width="50%"></td> <!-- Respiro milimétrico invisível entre as duas caixas -->
-    <td width="150px" align="center" style="border: none; padding: 0 15px 0 0;">
+    <td width="150vw" align="center" style="border: none; padding: 0 15px 0 0;">
         <a href="https://openjdk.org" style="margin: 0 15px; display: inline-block; text-align: center; text-decoration: none; color: inherit;">
             <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" title="Java" /><br>
             <b>Java 21</b>
